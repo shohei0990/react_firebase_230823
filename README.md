@@ -1,11 +1,11 @@
 #　最初のターミナルによるコマンド手順
-npx create-react-app . --template redux-typescript --use-npm
-npm i firebase@8.10.0 --legacy-peer-deps
-
-npm installする下記一部のpackageはReact18との互換性でインストールエラーとなる為、--legacy-peer-depsのオプションを指定してinstallしてください。
-npm i @material-ui/core --legacy-peer-deps
-npm i @material-ui/icons --legacy-peer-deps
-
+npx create-react-app . --template redux-typescript --use-npm   
+npm i firebase@8.10.0 --legacy-peer-deps   
+   
+npm installする下記一部のpackageはReact18との互換性でインストールエラーとなる為、--legacy-peer-depsのオプションを指定してinstallしてください。   
+npm i @material-ui/core --legacy-peer-deps   
+npm i @material-ui/icons --legacy-peer-deps   
+   
 
 # Getting Started with Create React App
 
